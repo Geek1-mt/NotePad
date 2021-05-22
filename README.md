@@ -9,11 +9,11 @@
 由于水平不足，我使用了已有的NotePad框架--https://github.com/llfjfz/NotePad
 （包含源码及项目说明）
 
-项目文件概览：![image-20210517165823620](C:\Users\ziyi\AppData\Roaming\Typora\typora-user-images\image-20210517165823620.png)
+项目文件概览：![image-20210517165823620](https://github.com/Geek1-mt/NotePad/blob/master/pictures/image-20210517165823620.png)
 
-布局文件：![image-20210517165847431](C:\Users\ziyi\AppData\Roaming\Typora\typora-user-images\image-20210517165847431.png)
+布局文件：![image-20210517165847431](https://github.com/Geek1-mt/NotePad/blob/master/pictures/image-20210517165847431.png)
 
-菜单文件：![image-20210522152231755](C:\Users\ziyi\AppData\Roaming\Typora\typora-user-images\image-20210522152231755.png)
+菜单文件：![image-20210522152231755](https://github.com/Geek1-mt/NotePad/blob/master/pictures/image-20210522152231755.png)
 
 数据装配：
 NoteList使用SimpleCursorAdapter来装配数据，首先查询数据库的内容
@@ -103,7 +103,7 @@ NoteList使用SimpleCursorAdapter来装配数据，首先查询数据库的内�
 
 
 
-![image-20210517165318796](C:\Users\ziyi\AppData\Roaming\Typora\typora-user-images\image-20210517165318796.png)
+![image-20210517165318796](https://github.com/Geek1-mt/NotePad/blob/master/pictures/image-20210517165318796.png)
 
 
 
@@ -260,4 +260,4 @@ NoteList使用SimpleCursorAdapter来装配数据，首先查询数据库的内�
 
 
 
-![image-20210517165632234](C:\Users\ziyi\AppData\Roaming\Typora\typora-user-images\image-20210517165632234.png)
+![image-20210517165632234](https://github.com/Geek1-mt/NotePad/blob/master/pictures/image-20210517165632234.png)
