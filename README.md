@@ -6,7 +6,8 @@
 
 ### 框架导入
 
-由于水平不足，我使用了已有的NotePad框架--https://github.com/llfjfz/NotePad（包含源码及项目说明）
+由于水平不足，我使用了已有的NotePad框架--https://github.com/llfjfz/NotePad
+（包含源码及项目说明）
 
 项目文件概览：![image-20210517165823620](C:\Users\ziyi\AppData\Roaming\Typora\typora-user-images\image-20210517165823620.png)
 
